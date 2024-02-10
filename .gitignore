@@ -1,6 +1,8 @@
 # Compiled class file
 *.class
+*.swp
 
+.gitignore
 # Log file
 *.log
 
